@@ -103,4 +103,4 @@ bash-4:$
 magic <file name>
 
 ```
-
+![dvsd_cmp_magic_layout(1)](https://user-images.githubusercontent.com/72103059/130252784-d6a24a18-8b96-4bbc-874d-b9ff98215e30.png)
