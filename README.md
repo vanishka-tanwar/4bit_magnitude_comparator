@@ -79,6 +79,8 @@ Once you are sure the docker is present, you have to make mount of the current f
 make mount
 
 ```
+![T-1](https://user-images.githubusercontent.com/72103059/130253604-7a5e19f0-ce8b-4cce-a1a2-22f42684287b.png)
+
 Now lets test a design which is already present in `openlane/designs` type 
 
 ```sh
