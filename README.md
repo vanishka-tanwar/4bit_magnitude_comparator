@@ -14,10 +14,6 @@ cd openlane
 make openlane 
 make pdk
 
-> add this configuration variable
-
-
-
 ```
 ## step 2: Install SKY130 PDK 
 
@@ -25,7 +21,7 @@ make pdk
 
 export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
 ```       
-Installed and Add library
+Installed and add this configuration variable
 ```sh
 export STD_CELL_LIBRARY=<Library name>
 ```       
