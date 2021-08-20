@@ -82,9 +82,6 @@ make mount
 
 Now lets test a design which is already present in `openlane/designs` type 
 
-```sh
-bash-4:$ ./flow.tcl -design dvsd_cmp -interactive 
-```
 
 ```sh
 bash-4:$
