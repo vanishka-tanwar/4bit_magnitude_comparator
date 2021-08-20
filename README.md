@@ -88,11 +88,10 @@ bash-4:$ ./flow.tcl -design dvsd_cmp -interactive
 ```sh
 bash-4:$
 
-./flow.tcl -design dvsd_cmp -tag <wher you tag this file name>
-
-> which shall display the "successful" message. 
+./flow.tcl -design dvsd_cmp -tag <wher you tag this file name> 
 
 ```
+which shall display the "successful" message.
 
 ## Step 6: magic layout generate 
 
