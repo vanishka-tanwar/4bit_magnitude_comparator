@@ -103,4 +103,4 @@ bash-4:$
 magic <file name>
 
 ```
-<img align="center" width="500"  src="![dvsd_cmp_magic_layout(1)](https://user-images.githubusercontent.com/72103059/130252136-0cb6e8a9-a082-4ac5-a293-b91b94cfa1d6.png)">
+
