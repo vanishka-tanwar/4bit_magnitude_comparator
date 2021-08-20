@@ -34,7 +34,7 @@ export STD_CELL_LIBRARY=<Library name>
 On successful completion of previous step, lets test it by
 
 ```sh
-make full -pdk
+make full-pdk
 make test
 ```
 
