@@ -6,7 +6,7 @@
 
 # Openlane Workflow
 
-## Step 1: setting SKY130 PDK and OpenLane
+## Step 1: setting OpenLane and SKY130 PDK 
 
 ```sh
 git clone https://github.com/efabless/openlane.git openlane
