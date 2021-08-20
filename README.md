@@ -1,9 +1,5 @@
 # 4bit_magnitude_comparator
 
-# Table of Contents
-
-- [Setting OpenLane](## Step 1: Setting OpenLane)
-
 
 
 
