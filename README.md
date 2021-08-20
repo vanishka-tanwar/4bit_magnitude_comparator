@@ -6,6 +6,8 @@
 # Openlane Workflow
 
 ## Step 1: Setting OpenLane
+![Screenshot from 2021-08-20 23-36-34](https://user-images.githubusercontent.com/72103059/130275641-f98576e5-d05d-4735-8c77-5976da056e2c.png)
+
 
 ```sh
 git clone https://github.com/efabless/openlane.git openlane
