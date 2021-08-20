@@ -19,6 +19,7 @@ export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
 
 > add library 
 export STD_CELL_LIBRARY=<Library name>
+make full-pdk
 
 ```
 
@@ -34,7 +35,7 @@ export STD_CELL_LIBRARY=<Library name>
 On successful completion of previous step, lets test it by
 
 ```sh
-make full-pdk
+
 make test
 ```
 
