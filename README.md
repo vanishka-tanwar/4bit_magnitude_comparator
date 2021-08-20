@@ -6,6 +6,7 @@
 # Openlane Workflow
 
 ## Step 1: Setting OpenLane
+![Screenshot from 2021-08-20 23-48-09](https://user-images.githubusercontent.com/72103059/130276762-69de11f4-4939-4e3c-ab17-bf02511f3042.png)
 
 
 ```sh
