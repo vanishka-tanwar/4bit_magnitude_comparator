@@ -82,7 +82,7 @@ bash-4:$
 
 ```
 
-## Step 7: magic layout generate 
+## Step 5: magic layout generate 
 
 
 ```sh
