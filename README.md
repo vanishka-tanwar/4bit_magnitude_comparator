@@ -22,11 +22,11 @@ export STD_CELL_LIBRARY=<Library name>
 
 ```
 
- sky130_fd_sc_hd
- sky130_fd_sc_hs
- sky130_fd_sc_ms
- sky130_fd_sc_ls
- sky130_fd_sc_hdll
+ > sky130_fd_sc_hd
+ > sky130_fd_sc_hs
+ > sky130_fd_sc_ms
+ > sky130_fd_sc_ls
+ > sky130_fd_sc_hdll
  
 
 ## Step 2: Test
