@@ -103,4 +103,4 @@ bash-4:$
 magic <file name>
 
 ```
-<img align="center" width="500"  src="/dvsd_cmp_magic_layout(1).pngi">
+<img align="center" width="500"  src="/dvsd_cmp_magic_layout(1).png">
