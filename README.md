@@ -19,15 +19,21 @@ export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
 
 > add library 
 export STD_CELL_LIBRARY=<Library name>
-make full-pdk
+
 
 ```
+- sky130_fd_sc_hd
+- sky130_fd_sc_hs
+- sky130_fd_sc_ms
+- sky130_fd_sc_ls
+- sky130_fd_sc_hdll
+       
+       
+you can install all SKY130  
+```sh
 
-        - sky130_fd_sc_hd
-        - sky130_fd_sc_hs
-        - sky130_fd_sc_ms
-        - sky130_fd_sc_ls
-        - sky130_fd_sc_hdll
+make full-pdk
+```       
  
 
 ## Step 2: Test
