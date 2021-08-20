@@ -97,6 +97,8 @@ bash-4:$
 
 
 which shall display the "successful" message.
+![T-20_successful](https://user-images.githubusercontent.com/72103059/130254369-d9112e33-d50c-4028-9c2a-1e8dba499c0d.png)
+
 
 ## Step 6: magic layout generate 
 
