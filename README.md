@@ -6,7 +6,7 @@
 
 # Openlane Workflow
 
-## Step 1: setting OpenLane and SKY130 PDK 
+## Step 1: Setting OpenLane
 
 ```sh
 git clone https://github.com/efabless/openlane.git openlane
@@ -15,13 +15,22 @@ make openlane
 make pdk
 
 > add this configuration variable
-export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
 
-> add library 
-export STD_CELL_LIBRARY=<Library name>
 
 
 ```
+## step 2: Install SKY130 PDK 
+
+```sh
+
+export PDK_ROOT=<absolute path to where skywater-pdk and open_pdks will reside>
+```       
+Installed and Add library
+```sh
+export STD_CELL_LIBRARY=<Library name>
+```       
+the library names is one of:
+
 - sky130_fd_sc_hd
 - sky130_fd_sc_hs
 - sky130_fd_sc_ms
@@ -36,7 +45,7 @@ make full-pdk
 ```       
  
 
-## Step 2: Test
+## Step 3: Test
 
 On successful completion of previous step, lets test it by
 
@@ -51,7 +60,7 @@ which shall display the "successful" message.
 
 **Next steps**
 
-## Step 3: Opening OpenLane in Docker
+## Step 4: Opening OpenLane in Docker
 
 If docker is installed, if you can see the docker version 19.* and above then docker is present and go to next step else install docker manually
 
@@ -66,7 +75,7 @@ you can install docker file following this link
 https://docs.docker.com/engine/install/
 
 
-## Step 4: Running openlane
+## Step 5: Running openlane
 
 Once you are sure the docker is present, you have to make mount of the current files in **openlane**
 
@@ -89,7 +98,7 @@ bash-4:$
 
 ```
 
-## Step 5: magic layout generate 
+## Step 6: magic layout generate 
 
 
 ```sh
