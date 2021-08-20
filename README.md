@@ -90,9 +90,12 @@ bash-4:$ ./flow.tcl -design dvsd_cmp -interactive
 ```sh
 bash-4:$
 
-./flow.tcl -design dvsd_cmp -tag <wher you tag this file name> 
+./flow.tcl -design dvsd_cmp -tag vanshika_4bit_magnitude_comparator
 
 ```
+![Screenshot from 2021-08-20 20-35-29](https://user-images.githubusercontent.com/72103059/130254035-478f3f5b-6f26-461f-927a-5e2d54cdc5ce.png)
+
+
 which shall display the "successful" message.
 
 ## Step 6: magic layout generate 
