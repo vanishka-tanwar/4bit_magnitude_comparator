@@ -109,8 +109,11 @@ bash-4:$
 
 magic dvsd_cmp.mag
 
+Zoom-in view of IP Layout of dvsd_cmp design in Magic Tool.
 ```
 ![dvsd_cmp_magic_layout(1)](https://user-images.githubusercontent.com/72103059/130252784-d6a24a18-8b96-4bbc-874d-b9ff98215e30.png)
+
+Zoom-out view of IP Layout of dvsd_cmp design in Magic Tool.
 ![dvsd_cmp_magic_layout](https://user-images.githubusercontent.com/72103059/130258107-6887d9b8-3f86-4420-b840-66234458f158.png)
 
 ## Step 7: Converting into spice
