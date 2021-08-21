@@ -111,3 +111,6 @@ magic dvsd_cmp.mag
 ![dvsd_cmp_magic_layout(1)](https://user-images.githubusercontent.com/72103059/130252784-d6a24a18-8b96-4bbc-874d-b9ff98215e30.png)
 ![dvsd_cmp_magic_layout](https://user-images.githubusercontent.com/72103059/130258107-6887d9b8-3f86-4420-b840-66234458f158.png)
 
+## Step 7: Converting into spice
+tkcon window
+![tkcon_converting_spice](https://user-images.githubusercontent.com/72103059/130328445-f081d2f4-f77c-4858-9c9f-d5491ed11015.png)
