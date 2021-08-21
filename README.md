@@ -83,6 +83,8 @@ make mount
 ![T-1](https://user-images.githubusercontent.com/72103059/130253604-7a5e19f0-ce8b-4cce-a1a2-22f42684287b.png)
 
 Now lets test a design which is already present in `openlane/designs` type 
+The following directory of design where the design is present is :
+'vsdflow/work/tools/openlane_working_dir/openlane/designs/dvsd_cmp'
 
 
 ```sh
@@ -95,12 +97,12 @@ bash-4:$
 
 
 
-which shall display the "successful" message.
+which shall display the "successful" message after running all the respective tasks. 
 ![T-20_successful](https://user-images.githubusercontent.com/72103059/130254369-d9112e33-d50c-4028-9c2a-1e8dba499c0d.png)
 
 
 ## Step 6: magic layout generate 
-
+For magic layout generation in magic tool write this in terminal where you ran the above process
 
 ```sh
 bash-4:$
@@ -112,5 +114,5 @@ magic dvsd_cmp.mag
 ![dvsd_cmp_magic_layout](https://user-images.githubusercontent.com/72103059/130258107-6887d9b8-3f86-4420-b840-66234458f158.png)
 
 ## Step 7: Converting into spice
-tkcon window
+tkcon window of magic tool 
 ![tkcon_converting_spice](https://user-images.githubusercontent.com/72103059/130328445-f081d2f4-f77c-4858-9c9f-d5491ed11015.png)
