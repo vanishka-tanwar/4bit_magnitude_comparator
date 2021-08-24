@@ -183,4 +183,24 @@ command for post-layout simulation
 Post-layout simulation waveform
 ![Screenshot from 2021-08-22 00-39-47](https://user-images.githubusercontent.com/72103059/130666825-fbe27f9c-f186-4da5-9270-198c31676827.png)
 
+## Area of improvement
+
+- To perform spice simulation of the final GDS layout.
+
+## References
+
+- [GitLab/OpenLane workshop](https://gitlab.com/gab13c/openlane-workshop)
+- [The OpenROAD Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
+- Ahmed Ghazy and Mohamed Shalan, "OpenLane: The Open-Source Digital ASIC Implementation Flow", Article No.21, Workshop on Open-Source EDA Technology (WOSET), 2020. [Paper](https://github.com/woset-workshop/woset-workshop.github.io/blob/master/PDFs/2020/a21.pdf)
+- [YOUTUBE/OpenLane Overview](https://www.youtube.com/watch?v=d0hPdkYg5QI)
+- [GitHUB/openlane_build_script](https://github.com/nickson-jose/openlane_build_script)
+- [GitLab/OpenLANE-Sky130-Physical-Design-Workshop](https://github.com/ripudamank2/OpenLANE-Sky130-Physical-Design-Workshop)
+
+## Acknowledgement
+
+- [Kunal Ghosh](https://github.com/kunalg123), Founder, VSD Corp. Pvt. Ltd
+
+## Author
+
+- [Vanshika Tanwar] Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
 
