@@ -74,8 +74,8 @@ https://docs.docker.com/engine/install/
 ## Step 5: Pre-layout
 
 Simulation
-
 This is how you can simulate your design.
+
 ![pre_simulation_analysis](https://user-images.githubusercontent.com/72103059/130665947-3c5a53a2-b16a-4967-830f-0d05666ee605.png)
 
 Pre-layout simulation waveform
