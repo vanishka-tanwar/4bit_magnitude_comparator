@@ -5,6 +5,13 @@
 
 # Openlane Workflow
 
+## OpenLane 
+
+OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault and custom methodology scripts for design exploration and optimization.
+For more information check [here](https://openlane.readthedocs.io/)
+
+![openlane flow 1](https://user-images.githubusercontent.com/80625515/130246106-18f73ccc-e8e1-4061-a1b0-8c14bdf711f1.png)
+
 ## Step 1: Setting OpenLane
 ![Screenshot from 2021-08-20 23-48-09](https://user-images.githubusercontent.com/72103059/130276762-69de11f4-4939-4e3c-ab17-bf02511f3042.png)
 
@@ -71,9 +78,8 @@ you can install docker file following this link
 
 https://docs.docker.com/engine/install/
 
-## Step 5: Pre-layout
+## Step 5: Pre-layout Simulation
 
-Simulation
 This is how you can simulate your design.
 
 ![pre_simulation_analysis](https://user-images.githubusercontent.com/72103059/130665947-3c5a53a2-b16a-4967-830f-0d05666ee605.png)
@@ -129,11 +135,11 @@ Zoom-in view of IP Layout of dvsd_cmp design in Magic Tool.
 Zoom-out view of IP Layout of dvsd_cmp design in Magic Tool.
 ![dvsd_cmp_magic_layout](https://user-images.githubusercontent.com/72103059/130258107-6887d9b8-3f86-4420-b840-66234458f158.png)
 
-## Step 8: Post layout simulation 
-command for post layout simulation 
+## Step 8: Post-layout simulation 
+command for post-layout simulation 
 ![post_simulation_analysis](https://user-images.githubusercontent.com/72103059/130666627-12de80a3-43c8-42b2-acaf-e94a7e83dc17.png)
 
-Post layout simulation waveform
+Post-layout simulation waveform
 ![Screenshot from 2021-08-22 00-39-47](https://user-images.githubusercontent.com/72103059/130666825-fbe27f9c-f186-4da5-9270-198c31676827.png)
 
 
