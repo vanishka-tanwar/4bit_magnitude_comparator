@@ -1,5 +1,4 @@
-# 4bit_magnitude_comparator
-
+# 4bit_magnitude_comparator(dvsd_cmp) RTL2GDS flow
 
 
 
