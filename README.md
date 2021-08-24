@@ -5,7 +5,7 @@
 - [Openlane Workflow](#Openlane-Workflow)
 - [OpenLane ](#OpenLane)
 - [OpenLane design stages](#OpenLane-design-stages)
-	- [Installation](#installation)
+- [Installation](#installation)
 	- [ Setting OpenLane](#Setting-OpenLane)
 	- - [Install SKY130 PDK](#Install-SKY130-PDK)
 	- [Test](#Test)
@@ -81,7 +81,7 @@ make openlane
 make pdk
 
 ```
-## step 2: Install SKY130 PDK 
+## Install SKY130 PDK 
 
 ```sh
 
@@ -107,7 +107,7 @@ make full-pdk
 ```       
  
 
-## Step 3: Test
+##  Test
 
 On successful completion of previous step, lets test it by
 
@@ -122,7 +122,7 @@ which shall display the "successful" message.
 
 **Next steps**
 
-## Step 4: Opening OpenLane in Docker
+## Opening OpenLane in Docker
 
 If docker is installed, if you can see the docker version 19.* and above then docker is present and go to next step else install docker manually
 
