@@ -183,6 +183,10 @@ command for post-layout simulation
 Post-layout simulation waveform
 ![Screenshot from 2021-08-22 00-39-47](https://user-images.githubusercontent.com/72103059/130666825-fbe27f9c-f186-4da5-9270-198c31676827.png)
 
+## Key points to Remember
+
+- Keep the top module name and design name always same, else errors would come in the design.
+
 ## Area of improvement
 
 - To perform spice simulation of the final GDS layout.
@@ -202,5 +206,5 @@ Post-layout simulation waveform
 
 ## Author
 
-- [Vanshika Tanwar]  Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
+- [Vanshika Tanwar](https://github.com/vanishka-tanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
 
