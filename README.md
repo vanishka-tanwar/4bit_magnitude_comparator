@@ -9,7 +9,7 @@
 	- [ Setting OpenLane](#Setting-OpenLane)
 	- - [Install SKY130 PDK](#Install-SKY130-PDK)
 	- [Test](#Test)
-- [Opening OpenLane in Docker](#Opening-OpenLane-in-Docker)
+	- [Opening OpenLane in Docker](#Opening-OpenLane-in-Docker)
 - [Pre-layout Simulation](#Pre-layout-Simulation)
 - [Running openlane](#Running-openlane)
 - [Magic layout generate](#Magic-layout-generate)
