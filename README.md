@@ -43,6 +43,15 @@ For more information check [here](https://openlane.readthedocs.io/)
 	- `Netgen` - Performs LVS Checks
 	- `CVC` - Performs Circuit Validity Checks
 
+### Installation
+
+#### Preferred Prerequisites
+
+- Preferred Ubuntu OS)
+- Docker 19.03.12+
+- GNU Make
+- Python 3.6+ with PIP
+- Click, Pyyaml: `pip3 install pyyaml click`
 
 ## Step 1: Setting OpenLane
 ![Screenshot from 2021-08-20 23-48-09](https://user-images.githubusercontent.com/72103059/130276762-69de11f4-4939-4e3c-ab17-bf02511f3042.png)
