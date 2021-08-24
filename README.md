@@ -202,5 +202,5 @@ Post-layout simulation waveform
 
 ## Author
 
-- [Vanshika Tanwar] Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
+- [Vanshika Tanwar]  Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
 
