@@ -12,6 +12,38 @@ For more information check [here](https://openlane.readthedocs.io/)
 
 ![openlane flow 1](https://user-images.githubusercontent.com/80625515/130246106-18f73ccc-e8e1-4061-a1b0-8c14bdf711f1.png)
 
+### OpenLane design stages
+
+1. Synthesis
+	- `yosys` - Performs RTL synthesis
+	- `abc` - Performs technology mapping
+	- `OpenSTA` - Performs static timing analysis on the resulting netlist to generate timing reports
+2. Floorplan and PDN
+	- `init_fp` - Defines the core area for the macro as well as the rows (used for placement) and the tracks (used for routing)
+	- `ioplacer` - Places the macro input and output ports
+	- `pdn` - Generates the power distribution network
+	- `tapcell` - Inserts welltap and decap cells in the floorplan
+3. Placement
+	- `RePLace` - Performs global placement
+	- `Resizer` - Performs optional optimizations on the design
+	- `OpenDP` - Perfroms detailed placement to legalize the globally placed components
+4. CTS
+	- `TritonCTS` - Synthesizes the clock distribution network (the clock tree)
+5. Routing
+	- `FastRoute` - Performs global routing to generate a guide file for the detailed router
+	- `CU-GR` - Another option for performing global routing.
+	- `TritonRoute` - Performs detailed routing
+	- `SPEF-Extractor` - Performs SPEF extraction
+6. GDSII Generation
+	- `Magic` - Streams out the final GDSII layout file from the routed def
+	- `Klayout` - Streams out the final GDSII layout file from the routed def as a back-up
+7. Checks
+	- `Magic` - Performs DRC Checks & Antenna Checks
+	- `Klayout` - Performs DRC Checks
+	- `Netgen` - Performs LVS Checks
+	- `CVC` - Performs Circuit Validity Checks
+
+
 ## Step 1: Setting OpenLane
 ![Screenshot from 2021-08-20 23-48-09](https://user-images.githubusercontent.com/72103059/130276762-69de11f4-4939-4e3c-ab17-bf02511f3042.png)
 
