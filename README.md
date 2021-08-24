@@ -1,6 +1,29 @@
 # 4bit_magnitude_comparator(dvsd_cmp) RTL2GDS flow
 
+# Table of Contents
 
+- [Openlane Workflow](#Openlane-Workflow)
+- [IP specs Provided](#ip-specs-provided)
+- [Verilog behavioral design](#verilog-behavioral-design)
+- [Pre-layout](#pre-layout)
+	- [Simulation](#simulation)
+- [OpenLane](#openlane)
+	- [Installation](#installation)
+	- [Running OpenLane](#running-openlane)
+- [Synthesis](#synthesis)
+- [Floorplanning](#floorplanning)
+- [Placement](#placement)
+- [Routing](#routing)
+- [Layout vs Schematic](#layout-vs-schematic)
+- [Final Layout](#final-layout)
+- [Post-layout](#post-layout)
+	- [Simulation](#simulation)
+- [Steps to reproduce and explore the design](#steps-to-reproduce-and-explore-the-design)
+- [Key points to Remember](#key-points-to-remember)
+- [Area of improvement](#area-of-improvement)
+- [References](#references)
+- [Acknowledgement](#acknowledgement)
+- [Author](#author)
 
 # Openlane Workflow
 
