@@ -212,7 +212,9 @@ command for post-layout simulation
 ![post_simulation_analysis](https://user-images.githubusercontent.com/72103059/130666627-12de80a3-43c8-42b2-acaf-e94a7e83dc17.png)
 
 Post-layout simulation waveform
-![Screenshot from 2021-08-22 00-39-47](https://user-images.githubusercontent.com/72103059/130666825-fbe27f9c-f186-4da5-9270-198c31676827.png)
+![Screenshot from 2021-08-28 18-16-20](https://user-images.githubusercontent.com/72103059/131218366-29b2f0f9-386b-4717-8db1-34e5d8549519.png)
+
+
 
 ## Key points to Remember
 
