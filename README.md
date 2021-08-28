@@ -2,15 +2,17 @@
 
 # Table of Contents
 
+- [Performance Specifications](#Performance-Specifications)
+- [Pin Configuration](#Pin-Configuration)
+- [Pre-layout Simulation](#Pre-layout-Simulation)
 - [Openlane Workflow](#Openlane-Workflow)
 - [OpenLane ](#OpenLane)
 - [OpenLane design stages](#OpenLane-design-stages)
 - [Installation](#installation)
-	- [ Setting OpenLane](#Setting-OpenLane)
-	- - [Install SKY130 PDK](#Install-SKY130-PDK)
+	- [Setting OpenLane](#Setting-OpenLane)
+	- [Install SKY130 PDK](#Install-SKY130-PDK)
 	- [Test](#Test)
 	- [Opening OpenLane in Docker](#Opening-OpenLane-in-Docker)
-- [Pre-layout Simulation](#Pre-layout-Simulation)
 - [Running openlane](#Running-openlane)
 - [Magic layout generate](#Magic-layout-generate)
 - [Post-layout simulation](#Post-layout-simulation)
@@ -27,9 +29,6 @@
 ## Pin Configuration
 
 ![image](https://user-images.githubusercontent.com/72103059/131216539-316d28b8-1fec-453d-a433-4a5d76909d22.png)
-
-
-
 
 ## Pre-layout Simulation
 
@@ -127,7 +126,7 @@ make full-pdk
 ```       
  
 
-##  Test
+## Test
 
 On successful completion of previous step, lets test it by
 
