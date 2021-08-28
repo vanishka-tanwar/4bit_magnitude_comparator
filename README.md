@@ -232,4 +232,4 @@ Post-layout simulation waveform
 ## Author
 
 - [Vanshika Tanwar](https://github.com/vanishka-tanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
-
+ 
