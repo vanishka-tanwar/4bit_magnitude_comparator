@@ -21,7 +21,7 @@
 - [Author](#author)
 
 ## Performance Specifications
-![image](https://user-images.githubusercontent.com/72103059/131216600-876e5381-d749-446c-a6cc-b8356edf525a.png)
+![image](https://user-images.githubusercontent.com/72103059/131216638-dae012ef-6bf9-4182-95fc-7d95ee9480a4.png)
 
 
 ## Pin Configuration
