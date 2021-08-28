@@ -20,6 +20,11 @@
 - [Acknowledgement](#acknowledgement)
 - [Author](#author)
 
+## Pin Configuration
+
+![image](https://user-images.githubusercontent.com/72103059/131216539-316d28b8-1fec-453d-a433-4a5d76909d22.png)
+
+
 # Openlane Workflow
 
 ## OpenLane 
