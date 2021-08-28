@@ -20,6 +20,10 @@
 - [Acknowledgement](#acknowledgement)
 - [Author](#author)
 
+## Performance Specifications
+![image](https://user-images.githubusercontent.com/72103059/131216600-876e5381-d749-446c-a6cc-b8356edf525a.png)
+
+
 ## Pin Configuration
 
 ![image](https://user-images.githubusercontent.com/72103059/131216539-316d28b8-1fec-453d-a433-4a5d76909d22.png)
