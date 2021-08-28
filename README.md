@@ -89,7 +89,7 @@ For more information check [here](https://openlane.readthedocs.io/)
 - Python 3.6+ with PIP
 - Click, Pyyaml: `pip3 install pyyaml click`
 
-## Step 1: Setting OpenLane
+## Setting OpenLane
 ![Screenshot from 2021-08-20 23-48-09](https://user-images.githubusercontent.com/72103059/130276762-69de11f4-4939-4e3c-ab17-bf02511f3042.png)
 
 
@@ -155,7 +155,7 @@ you can install docker file following this link
 
 https://docs.docker.com/engine/install/
 
-## Step 2: Running openlane
+##  Running openlane
 
 Once you are sure the docker is present, you have to make mount of the current files in **openlane**
 
@@ -184,7 +184,7 @@ which shall display the "successful" message after running all the respective ta
 ![T-20_successful](https://user-images.githubusercontent.com/72103059/130254369-d9112e33-d50c-4028-9c2a-1e8dba499c0d.png)
 
 
-## Step 3: Magic layout generate 
+##  Magic layout generate 
 For magic layout generation in magic tool write this in terminal where you ran the above process
 
 ```sh
