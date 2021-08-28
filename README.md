@@ -2,6 +2,7 @@
 
 # Table of Contents
 
+- [Design](#Design)
 - [Performance Specifications](#Performance-Specifications)
 - [Pin Configuration](#Pin-Configuration)
 - [Pre-layout Simulation](#Pre-layout-Simulation)
@@ -21,6 +22,10 @@
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 - [Author](#author)
+
+
+## Design 
+![image](https://user-images.githubusercontent.com/72103059/131217008-17426cb3-be4f-4e20-8f26-4ac60d539853.png)
 
 ## Performance Specifications
 ![image](https://user-images.githubusercontent.com/72103059/131216638-dae012ef-6bf9-4182-95fc-7d95ee9480a4.png)
