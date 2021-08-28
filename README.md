@@ -29,6 +29,17 @@
 ![image](https://user-images.githubusercontent.com/72103059/131216539-316d28b8-1fec-453d-a433-4a5d76909d22.png)
 
 
+
+
+## Pre-layout Simulation
+
+This is how you can simulate your design.
+
+![pre_simulation_analysis](https://user-images.githubusercontent.com/72103059/130665947-3c5a53a2-b16a-4967-830f-0d05666ee605.png)
+
+Pre-layout simulation waveform
+![pre_gtkwave(3)](https://user-images.githubusercontent.com/72103059/130666317-a68d77f7-903c-40bf-a39d-03cc8cb1c178.png)
+
 # Openlane Workflow
 
 ## OpenLane 
@@ -145,18 +156,7 @@ you can install docker file following this link
 
 https://docs.docker.com/engine/install/
 
-## Step 5: Pre-layout Simulation
-
-This is how you can simulate your design.
-
-![pre_simulation_analysis](https://user-images.githubusercontent.com/72103059/130665947-3c5a53a2-b16a-4967-830f-0d05666ee605.png)
-
-Pre-layout simulation waveform
-![pre_gtkwave(3)](https://user-images.githubusercontent.com/72103059/130666317-a68d77f7-903c-40bf-a39d-03cc8cb1c178.png)
-
-
-
-## Step 6: Running openlane
+## Step 2: Running openlane
 
 Once you are sure the docker is present, you have to make mount of the current files in **openlane**
 
@@ -185,7 +185,7 @@ which shall display the "successful" message after running all the respective ta
 ![T-20_successful](https://user-images.githubusercontent.com/72103059/130254369-d9112e33-d50c-4028-9c2a-1e8dba499c0d.png)
 
 
-## Step 7: Magic layout generate 
+## Step 3: Magic layout generate 
 For magic layout generation in magic tool write this in terminal where you ran the above process
 
 ```sh
@@ -202,7 +202,7 @@ Zoom-in view of IP Layout of dvsd_cmp design in Magic Tool.
 Zoom-out view of IP Layout of dvsd_cmp design in Magic Tool.
 ![dvsd_cmp_magic_layout](https://user-images.githubusercontent.com/72103059/130258107-6887d9b8-3f86-4420-b840-66234458f158.png)
 
-## Step 8: Post-layout simulation 
+##  Post-layout simulation 
 command for post-layout simulation 
 ![post_simulation_analysis](https://user-images.githubusercontent.com/72103059/130666627-12de80a3-43c8-42b2-acaf-e94a7e83dc17.png)
 
