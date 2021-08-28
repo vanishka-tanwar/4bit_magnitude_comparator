@@ -1,4 +1,5 @@
 # 4bit_magnitude_comparator(dvsd_cmp) RTL2GDS flow
+*The purpose of this project is to produce a clean GDS (Graphic Design System) Final Layout with all details that are used to print photomasks used in the fabrication of a behavioral RTL (Register-Transfer Level) of an 4bit_magnitude_comparator, using SkyWater 130nm PDK (Process Design Kit)*
 
 # Table of Contents
 
